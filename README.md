@@ -1,4 +1,4 @@
-<h1>Hi, I'm DarkElite02 <img src="https://komarev.com/ghpvc/?username=Coreli0&label=Profile%20views&color=7d63ff&style=for-the-badge" alt="Coreli0"/></h1>
+<h1>Hi, I'm DarkElite02 <img src="https://komarev.com/ghpvc/?username=Coreli0&label=Profile%20views&color=7d63ff&style=for-the-badge" alt="DarkElite02"/></h1>
 
 - 🌱 I’m currently learning C# 
 - 📫 How to reach me darkelite02:discord
